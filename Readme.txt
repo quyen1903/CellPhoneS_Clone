@@ -2,7 +2,7 @@ This project created base on someone project on the internet :v
 (I suggest to use gitbash)
 
 
-First inside server and client folder we use command type command
+First inside server folder and client folder(seperate them!!) we use command type command
 npm install --force
 Wait about one minute(depend on your computer)
 
