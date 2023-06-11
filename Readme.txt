@@ -1,20 +1,25 @@
 This project created base on someone project on the internet :v
-(we can use cmd or powershell but i suggest to use gitbash)
+(I suggest to use gitbash)
 
 
-First inside server folder we type command
+First inside server and client folder we use command type command
+npm install --force
+Wait about one minute(depend on your computer)
+
+Next in server folder, we use command 
 npm run start
-
 
 then open another git process on client folder(do not cd because it can interrupt our server)
 and use this command
-set NODE_OPTIONS=--openssl-legacy-provider
-
-
-in cse we use gitbash(as I recommmend)
 export NODE_OPTIONS=--openssl-legacy-provider
 
 
 "this command to create env for node to run "
-now we npm run start client side
+now in client folder use command
+npm run start
+
+browser automatically open our web
+or we can open up manually by type:
+localhost:3000
+
 enjoy, have fun!!!!!!!
