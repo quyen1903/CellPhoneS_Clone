@@ -1,6 +1,7 @@
 This project created base on someone project on the internet :v
 (I suggest to use gitbash)
 
+your computer must have nodejs and npm to deploy&run this project
 
 First inside server folder and client folder(separate them!!) we use command type command
 npm install --force
