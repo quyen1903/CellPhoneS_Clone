@@ -20,9 +20,9 @@ npm run start
 then open another git process on client folder(do not cd because it can interrupt our server)
 and use this command
 export NODE_OPTIONS=--openssl-legacy-provider
+this command to create env for node to run(we use gitbash, if we use windows we can change to)
+set NODE_OPTIONS=--openssl-legacy-provider
 
-
-"this command to create env for node to run "
 now in client folder use command
 npm run start
 
