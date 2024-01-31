@@ -1,10 +1,3 @@
-// bài này em nộp cuối kỳ môn khác nhưng gấp quá em upload tạm lên github luôn nha thầy :((
-//tên sinh viên: Nguyễn Quang Quyền
-// mã sinh viên AT150840
-//lớp:AT15N02 /(hay còn gọi là AT15I)
-
-
-
 This project created base on someone project on the internet :v
 (I suggest to use gitbash)
 
